@@ -1,0 +1,81 @@
+﻿model_id,specification,n_available,n_complete_case,countries,years,fit_status
+E_ghg_diet_mphdi_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_ghg_diet_mphdi_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_ghg_diet_mphdi_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_ghg_diet_mphdi_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_ghg_diet_mphdi_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_land_diet_mphdi_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_land_diet_mphdi_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_land_diet_mphdi_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_land_diet_mphdi_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_land_diet_mphdi_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_water_diet_mphdi_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_water_diet_mphdi_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_water_diet_mphdi_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_water_diet_mphdi_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_water_diet_mphdi_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_mphdi_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_mphdi_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_mphdi_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_eutrophication_diet_mphdi_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_eutrophication_diet_mphdi_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_ghg_diet_med_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_ghg_diet_med_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_ghg_diet_med_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_ghg_diet_med_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_ghg_diet_med_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_land_diet_med_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_land_diet_med_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_land_diet_med_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_land_diet_med_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_land_diet_med_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_water_diet_med_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_water_diet_med_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_water_diet_med_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_water_diet_med_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_water_diet_med_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_med_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_med_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_med_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_eutrophication_diet_med_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_eutrophication_diet_med_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_ghg_diet_dash_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_ghg_diet_dash_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_ghg_diet_dash_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_ghg_diet_dash_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_ghg_diet_dash_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_land_diet_dash_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_land_diet_dash_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_land_diet_dash_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_land_diet_dash_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_land_diet_dash_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_water_diet_dash_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_water_diet_dash_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_water_diet_dash_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_water_diet_dash_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_water_diet_dash_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_dash_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_dash_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_dash_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_eutrophication_diet_dash_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_eutrophication_diet_dash_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_ghg_diet_ahei_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_ghg_diet_ahei_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_ghg_diet_ahei_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_ghg_diet_ahei_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_ghg_diet_ahei_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_land_diet_ahei_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_land_diet_ahei_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_land_diet_ahei_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_land_diet_ahei_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_land_diet_ahei_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_water_diet_ahei_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_water_diet_ahei_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_water_diet_ahei_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_water_diet_ahei_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_water_diet_ahei_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_ahei_score_unadjusted,Unadjusted,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_ahei_score_primary,Primary analysis,1295,1295,185,7,SUCCESS
+E_eutrophication_diet_ahei_score_coverage80,Coverage >=80%,1162,1162,183,7,SUCCESS
+E_eutrophication_diet_ahei_score_coverage80_adjusted,Coverage >=80% with additional adjustment for coverage,1162,1162,183,7,SUCCESS
+E_eutrophication_diet_ahei_score_population_weighted,Population weighted,1295,1295,185,7,SUCCESS
