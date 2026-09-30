@@ -1,0 +1,25 @@
+﻿outcome_code,outcome_label,family,diet,increment_label,nonlinear_term,quadratic_beta,quadratic_se,nonlinear_p_value,observations,countries,fit_status,nonlinear_q_value_bh
+daly,Dementia DALY rate,Health,mPHDI,per 10-point higher mPHDI,x_mphdi_per_increment_squared,-0.0022205127297265,0.00347570505805749,0.523704017480289,740,185,SUCCESS,0.698272023307052
+daly,Dementia DALY rate,Health,MED,per 1-point higher MED,x_med_per_increment_squared,0.00031365741863192,0.000991248308810178,0.752037349545571,740,185,SUCCESS,0.752037349545571
+daly,Dementia DALY rate,Health,DASH,per 5-point higher DASH,x_dash_per_increment_squared,0.00527484078181235,0.00433266809065932,0.224989119372198,740,185,SUCCESS,0.449978238744396
+daly,Dementia DALY rate,Health,AHEI,per 10-point higher AHEI,x_ahei_per_increment_squared,0.00411525975436618,0.00259913029005943,0.115065402555983,740,185,SUCCESS,0.449978238744396
+prevalence,Dementia prevalence rate,Health,mPHDI,per 10-point higher mPHDI,x_mphdi_per_increment_squared,-0.000712704643734362,0.000997093211560425,0.475649425670849,740,185,SUCCESS,0.475649425670849
+prevalence,Dementia prevalence rate,Health,MED,per 1-point higher MED,x_med_per_increment_squared,0.000313382438548446,0.000357123163574834,0.381349022320019,740,185,SUCCESS,0.475649425670849
+prevalence,Dementia prevalence rate,Health,DASH,per 5-point higher DASH,x_dash_per_increment_squared,-0.00102568375509134,0.00132110119881387,0.438518292381572,740,185,SUCCESS,0.475649425670849
+prevalence,Dementia prevalence rate,Health,AHEI,per 10-point higher AHEI,x_ahei_per_increment_squared,-0.000852780837788568,0.000791129266222554,0.28247676331482,740,185,SUCCESS,0.475649425670849
+ghg,GHG emissions,Environment,mPHDI,per 10-point higher mPHDI,x_mphdi_per_increment_squared,0.00640421791589391,0.0188967936016359,0.735067744591839,1295,185,SUCCESS,0.735067744591839
+ghg,GHG emissions,Environment,MED,per 1-point higher MED,x_med_per_increment_squared,-0.0127042780073955,0.00541644072297128,0.0200668295320551,1295,185,SUCCESS,0.0802673181282204
+ghg,GHG emissions,Environment,DASH,per 5-point higher DASH,x_dash_per_increment_squared,-0.0160955863255703,0.0215123106940017,0.455292672439795,1295,185,SUCCESS,0.735067744591839
+ghg,GHG emissions,Environment,AHEI,per 10-point higher AHEI,x_ahei_per_increment_squared,0.00766833704996628,0.0142416347434779,0.590920640301234,1295,185,SUCCESS,0.735067744591839
+land,Land use,Environment,mPHDI,per 10-point higher mPHDI,x_mphdi_per_increment_squared,0.00704799231239783,0.0220143351029458,0.749214343114819,1295,185,SUCCESS,0.754364821060786
+land,Land use,Environment,MED,per 1-point higher MED,x_med_per_increment_squared,-0.0149009555234276,0.00672794207071563,0.0280023086682314,1295,185,SUCCESS,0.112009234672926
+land,Land use,Environment,DASH,per 5-point higher DASH,x_dash_per_increment_squared,-0.0261360653649372,0.0261703881555637,0.319257167279912,1295,185,SUCCESS,0.638514334559824
+land,Land use,Environment,AHEI,per 10-point higher AHEI,x_ahei_per_increment_squared,0.00574106162317634,0.0183211876471465,0.754364821060786,1295,185,SUCCESS,0.754364821060786
+water,Water-scarcity,Environment,mPHDI,per 10-point higher mPHDI,x_mphdi_per_increment_squared,0.00889459916774232,0.0106135489699494,0.403094438985572,1295,185,SUCCESS,0.894904659048348
+water,Water-scarcity,Environment,MED,per 1-point higher MED,x_med_per_increment_squared,-0.00102366920914843,0.00315007488676915,0.745575517276216,1295,185,SUCCESS,0.894904659048348
+water,Water-scarcity,Environment,DASH,per 5-point higher DASH,x_dash_per_increment_squared,0.00494559619315771,0.0113954799032364,0.664799570752042,1295,185,SUCCESS,0.894904659048348
+water,Water-scarcity,Environment,AHEI,per 10-point higher AHEI,x_ahei_per_increment_squared,0.0011906612481441,0.00900083454139985,0.894904659048348,1295,185,SUCCESS,0.894904659048348
+eutrophication,Eutrophication,Environment,mPHDI,per 10-point higher mPHDI,x_mphdi_per_increment_squared,-0.0030951210898016,0.017180412483059,0.857229877641752,1295,185,SUCCESS,0.857229877641752
+eutrophication,Eutrophication,Environment,MED,per 1-point higher MED,x_med_per_increment_squared,-0.0122803861556109,0.00528051076130546,0.0211298715590712,1295,185,SUCCESS,0.0845194862362847
+eutrophication,Eutrophication,Environment,DASH,per 5-point higher DASH,x_dash_per_increment_squared,-0.0106985025543173,0.0239969287398519,0.656245645578375,1295,185,SUCCESS,0.857229877641752
+eutrophication,Eutrophication,Environment,AHEI,per 10-point higher AHEI,x_ahei_per_increment_squared,0.00683356544270225,0.0136262181707197,0.616617893611304,1295,185,SUCCESS,0.857229877641752

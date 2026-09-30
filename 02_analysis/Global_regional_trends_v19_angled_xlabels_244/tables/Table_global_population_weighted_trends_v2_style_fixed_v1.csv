@@ -1,0 +1,71 @@
+﻿variable,geographical_level,year,value,panel,title,y_label,digits
+dementia_daly_asr60plus,Global,1990,2990.79058526102,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1
+dementia_daly_asr60plus,Global,1995,3016.34036931923,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1
+dementia_daly_asr60plus,Global,2000,3035.29829428584,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1
+dementia_daly_asr60plus,Global,2005,3064.99698936812,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1
+dementia_daly_asr60plus,Global,2010,3045.86588818492,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1
+dementia_daly_asr60plus,Global,2015,3049.34109377391,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1
+dementia_daly_asr60plus,Global,2018,3071.2478599281,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1
+dementia_prevalence_asr60plus,Global,1990,4397.90855079668,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1
+dementia_prevalence_asr60plus,Global,1995,4449.89948590988,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1
+dementia_prevalence_asr60plus,Global,2000,4481.80237129932,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1
+dementia_prevalence_asr60plus,Global,2005,4464.9292036277,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1
+dementia_prevalence_asr60plus,Global,2010,4430.19605050868,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1
+dementia_prevalence_asr60plus,Global,2015,4506.98376978631,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1
+dementia_prevalence_asr60plus,Global,2018,4506.18184920237,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1
+diet_ahei_score,Global,1990,50.8641895544215,D,AHEI,Population-weighted AHEI score,1
+diet_ahei_score,Global,1995,51.4496913824712,D,AHEI,Population-weighted AHEI score,1
+diet_ahei_score,Global,2000,53.6708129164274,D,AHEI,Population-weighted AHEI score,1
+diet_ahei_score,Global,2005,54.9164178717247,D,AHEI,Population-weighted AHEI score,1
+diet_ahei_score,Global,2010,55.7641542240571,D,AHEI,Population-weighted AHEI score,1
+diet_ahei_score,Global,2015,55.3704143484293,D,AHEI,Population-weighted AHEI score,1
+diet_ahei_score,Global,2018,55.631050540427,D,AHEI,Population-weighted AHEI score,1
+diet_dash_score,Global,1990,24.72108469167,C,DASH,Population-weighted DASH score,1
+diet_dash_score,Global,1995,25.0224807451624,C,DASH,Population-weighted DASH score,1
+diet_dash_score,Global,2000,25.8010947633957,C,DASH,Population-weighted DASH score,1
+diet_dash_score,Global,2005,26.1328605736568,C,DASH,Population-weighted DASH score,1
+diet_dash_score,Global,2010,25.9200089971316,C,DASH,Population-weighted DASH score,1
+diet_dash_score,Global,2015,25.6243035318159,C,DASH,Population-weighted DASH score,1
+diet_dash_score,Global,2018,26.054450718171,C,DASH,Population-weighted DASH score,1
+diet_med_score,Global,1990,4.2758449472963,B,MED,Population-weighted MED score,2
+diet_med_score,Global,1995,4.70797421225669,B,MED,Population-weighted MED score,2
+diet_med_score,Global,2000,4.7980009821487,B,MED,Population-weighted MED score,2
+diet_med_score,Global,2005,4.86655867012386,B,MED,Population-weighted MED score,2
+diet_med_score,Global,2010,4.87127195830242,B,MED,Population-weighted MED score,2
+diet_med_score,Global,2015,4.7267044678171,B,MED,Population-weighted MED score,2
+diet_med_score,Global,2018,4.95632974258831,B,MED,Population-weighted MED score,2
+diet_mphdi_score,Global,1990,69.5738762128315,A,mPHDI,Population-weighted mPHDI score,1
+diet_mphdi_score,Global,1995,70.5768258947978,A,mPHDI,Population-weighted mPHDI score,1
+diet_mphdi_score,Global,2000,71.2961675771861,A,mPHDI,Population-weighted mPHDI score,1
+diet_mphdi_score,Global,2005,72.6226581052893,A,mPHDI,Population-weighted mPHDI score,1
+diet_mphdi_score,Global,2010,73.2824129962059,A,mPHDI,Population-weighted mPHDI score,1
+diet_mphdi_score,Global,2015,72.665875631523,A,mPHDI,Population-weighted mPHDI score,1
+diet_mphdi_score,Global,2018,72.6889177640048,A,mPHDI,Population-weighted mPHDI score,1
+env_eutrophication_g_po4e_person_day,Global,1990,26.5617294032027,J,Eutrophication,g PO4-eq/person/day,2
+env_eutrophication_g_po4e_person_day,Global,1995,26.2577725377474,J,Eutrophication,g PO4-eq/person/day,2
+env_eutrophication_g_po4e_person_day,Global,2000,26.7141289270647,J,Eutrophication,g PO4-eq/person/day,2
+env_eutrophication_g_po4e_person_day,Global,2005,27.9894094604115,J,Eutrophication,g PO4-eq/person/day,2
+env_eutrophication_g_po4e_person_day,Global,2010,29.8951487212403,J,Eutrophication,g PO4-eq/person/day,2
+env_eutrophication_g_po4e_person_day,Global,2015,29.8125952146405,J,Eutrophication,g PO4-eq/person/day,2
+env_eutrophication_g_po4e_person_day,Global,2018,30.3475408320431,J,Eutrophication,g PO4-eq/person/day,2
+env_ghg_kg_co2e_person_day,Global,1990,5.23222789970084,G,GHG emissions,kg CO2-eq/person/day,2
+env_ghg_kg_co2e_person_day,Global,1995,5.03158695646782,G,GHG emissions,kg CO2-eq/person/day,2
+env_ghg_kg_co2e_person_day,Global,2000,5.02230056633295,G,GHG emissions,kg CO2-eq/person/day,2
+env_ghg_kg_co2e_person_day,Global,2005,5.22960007374329,G,GHG emissions,kg CO2-eq/person/day,2
+env_ghg_kg_co2e_person_day,Global,2010,5.59647315505595,G,GHG emissions,kg CO2-eq/person/day,2
+env_ghg_kg_co2e_person_day,Global,2015,5.56893592378544,G,GHG emissions,kg CO2-eq/person/day,2
+env_ghg_kg_co2e_person_day,Global,2018,5.68628354531673,G,GHG emissions,kg CO2-eq/person/day,2
+env_land_m2_person_day,Global,1990,13.4436895590876,H,Land use,m2/person/day,2
+env_land_m2_person_day,Global,1995,12.6762036212359,H,Land use,m2/person/day,2
+env_land_m2_person_day,Global,2000,12.4460379063619,H,Land use,m2/person/day,2
+env_land_m2_person_day,Global,2005,12.9481552749599,H,Land use,m2/person/day,2
+env_land_m2_person_day,Global,2010,13.9417521898554,H,Land use,m2/person/day,2
+env_land_m2_person_day,Global,2015,13.8200385087896,H,Land use,m2/person/day,2
+env_land_m2_person_day,Global,2018,14.1364820706501,H,Land use,m2/person/day,2
+env_water_scarcity_l_equivalent_person_day,Global,1990,24864.213589781,I,Water scarcity,L-eq/person/day,0
+env_water_scarcity_l_equivalent_person_day,Global,1995,24644.0441304514,I,Water scarcity,L-eq/person/day,0
+env_water_scarcity_l_equivalent_person_day,Global,2000,25490.4384331056,I,Water scarcity,L-eq/person/day,0
+env_water_scarcity_l_equivalent_person_day,Global,2005,26488.8101952068,I,Water scarcity,L-eq/person/day,0
+env_water_scarcity_l_equivalent_person_day,Global,2010,27844.2963662125,I,Water scarcity,L-eq/person/day,0
+env_water_scarcity_l_equivalent_person_day,Global,2015,27707.3332605002,I,Water scarcity,L-eq/person/day,0
+env_water_scarcity_l_equivalent_person_day,Global,2018,28107.984825701,I,Water scarcity,L-eq/person/day,0

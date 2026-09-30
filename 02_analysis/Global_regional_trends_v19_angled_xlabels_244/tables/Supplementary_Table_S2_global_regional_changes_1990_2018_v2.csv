@@ -1,0 +1,81 @@
+﻿geographical_level,variable,panel,label,unit,digits,estimate_1990,estimate_2018,absolute_change,relative_change_percent
+Global,dementia_daly_asr60plus,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1,2990.79058526102,3071.2478599281,80.4572746670742,2.69016744480799
+Global,dementia_prevalence_asr60plus,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1,4397.90855079668,4506.18184920237,108.273298405691,2.46192700814748
+Global,diet_ahei_score,D,AHEI,Population-weighted AHEI score,1,50.8641895544215,55.631050540427,4.7668609860055,9.37174272855612
+Global,diet_dash_score,C,DASH,Population-weighted DASH score,1,24.72108469167,26.054450718171,1.33336602650099,5.39363884364784
+Global,diet_med_score,B,MED,Population-weighted MED score,2,4.2758449472963,4.95632974258831,0.680484795292003,15.9146274871891
+Global,diet_mphdi_score,A,mPHDI,Population-weighted mPHDI score,1,69.5738762128315,72.6889177640048,3.11504155117326,4.47731493591664
+Global,env_eutrophication_g_po4e_person_day,J,Eutrophication,g PO4-eq/person/day,2,26.5617294032027,30.3475408320431,3.78581142884038,14.2528800417036
+Global,env_ghg_kg_co2e_person_day,G,GHG emissions,kg CO2-eq/person/day,2,5.23222789970084,5.68628354531673,0.454055645615886,8.6780555877898
+Global,env_land_m2_person_day,H,Land use,m2/person/day,2,13.4436895590876,14.1364820706501,0.692792511562541,5.15329150169367
+Global,env_water_scarcity_l_equivalent_person_day,I,Water scarcity,L-eq/person/day,0,24864.213589781,28107.984825701,3243.77123592002,13.0459434166588
+Central and Eastern Europe and Central Asia,dementia_daly_asr60plus,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1,2673.72902550202,2724.33516313028,50.6061376282596,1.89271751720456
+East and Southeast Asia,dementia_daly_asr60plus,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1,3315.7836875427,3479.96692829293,164.183240750232,4.95156669498871
+High-income countries,dementia_daly_asr60plus,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1,3443.28684811145,3335.59750062579,-107.689347485655,-3.12751601118331
+Latin America and the Caribbean,dementia_daly_asr60plus,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1,2886.49077765209,2859.42513997009,-27.0656376819961,-0.937665829094098
+Middle East and North Africa,dementia_daly_asr60plus,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1,3258.31327209138,3430.48127869889,172.168006607512,5.28396112437048
+South Asia,dementia_daly_asr60plus,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1,1815.99673468598,2079.09886096282,263.102126276842,14.4880285989246
+Sub-Saharan Africa,dementia_daly_asr60plus,E,Dementia DALY rate,"DALY rate (per 100,000 adults aged 60+)",1,2555.15397465098,2819.90308461475,264.74910996377,10.3613759714787
+Central and Eastern Europe and Central Asia,dementia_prevalence_asr60plus,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1,4001.98726848694,3935.95044557888,-66.0368229080546,-1.65010077438406
+East and Southeast Asia,dementia_prevalence_asr60plus,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1,4597.32384973938,5201.05409844431,603.730248704931,13.1322105737484
+High-income countries,dementia_prevalence_asr60plus,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1,5089.41285286353,4943.02679549622,-146.386057367314,-2.87628576418103
+Latin America and the Caribbean,dementia_prevalence_asr60plus,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1,4754.55368246999,4659.19129496252,-95.3623875074773,-2.00570640014178
+Middle East and North Africa,dementia_prevalence_asr60plus,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1,4892.42038634024,4708.70334071529,-183.717045624944,-3.75513613134895
+South Asia,dementia_prevalence_asr60plus,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1,2988.4037409891,2868.09885340285,-120.304887586252,-4.02572403240379
+Sub-Saharan Africa,dementia_prevalence_asr60plus,F,Dementia prevalence rate,"Prevalence rate (per 100,000 adults aged 60+)",1,3638.79086864297,3503.99825244737,-134.7926161956,-3.70432435007919
+Central and Eastern Europe and Central Asia,diet_ahei_score,D,AHEI,Population-weighted AHEI score,1,49.6050278398213,55.139138272921,5.53411043309973,11.1563498179455
+East and Southeast Asia,diet_ahei_score,D,AHEI,Population-weighted AHEI score,1,48.5989755499208,55.8109661176813,7.21199056776043,14.8397995763353
+High-income countries,diet_ahei_score,D,AHEI,Population-weighted AHEI score,1,51.3217161824633,55.1613107820493,3.839594599586,7.481422846296
+Latin America and the Caribbean,diet_ahei_score,D,AHEI,Population-weighted AHEI score,1,41.7909475843445,44.8626481305463,3.07170054620184,7.3501576866674
+Middle East and North Africa,diet_ahei_score,D,AHEI,Population-weighted AHEI score,1,50.1902504176534,53.8517862890395,3.66153587138605,7.2953130158087
+South Asia,diet_ahei_score,D,AHEI,Population-weighted AHEI score,1,59.6225534100544,62.392249347087,2.76969593703265,4.64538296101486
+Sub-Saharan Africa,diet_ahei_score,D,AHEI,Population-weighted AHEI score,1,54.3917195194996,53.383778080151,-1.00794143934857,-1.8531155996773
+Central and Eastern Europe and Central Asia,diet_dash_score,C,DASH,Population-weighted DASH score,1,25.7431578494738,27.230601342931,1.48744349345713,5.77801488906122
+East and Southeast Asia,diet_dash_score,C,DASH,Population-weighted DASH score,1,21.5465434523557,24.1974808425158,2.65093739016009,12.3033070061651
+High-income countries,diet_dash_score,C,DASH,Population-weighted DASH score,1,26.351451145798,27.6320587640152,1.28060761821715,4.85972332655143
+Latin America and the Caribbean,diet_dash_score,C,DASH,Population-weighted DASH score,1,22.8633053560729,24.7954682635317,1.93216290745876,8.45093426942113
+Middle East and North Africa,diet_dash_score,C,DASH,Population-weighted DASH score,1,26.5634648000786,27.2744078061809,0.710943006102305,2.67639410541128
+South Asia,diet_dash_score,C,DASH,Population-weighted DASH score,1,27.2845413266824,27.4671250976619,0.182583770979534,0.669183948498264
+Sub-Saharan Africa,diet_dash_score,C,DASH,Population-weighted DASH score,1,28.072648586721,28.1000108719451,0.0273622852240827,0.0974695534678751
+Central and Eastern Europe and Central Asia,diet_med_score,B,MED,Population-weighted MED score,2,3.87133250828174,4.04484670673677,0.17351419845502,4.48202777942298
+East and Southeast Asia,diet_med_score,B,MED,Population-weighted MED score,2,3.75759711045888,5.10006404425719,1.34246693379831,35.726739571459
+High-income countries,diet_med_score,B,MED,Population-weighted MED score,2,3.79102985885307,4.36964241804856,0.578612559195492,15.2626748070654
+Latin America and the Caribbean,diet_med_score,B,MED,Population-weighted MED score,2,4.62502996883183,3.70315094401182,-0.921879024820018,-19.9323902987133
+Middle East and North Africa,diet_med_score,B,MED,Population-weighted MED score,2,4.90649149299773,5.44227440224416,0.535782909246435,10.9198784918118
+South Asia,diet_med_score,B,MED,Population-weighted MED score,2,5.78799944984053,5.91650725349908,0.128507803658549,2.22024560942363
+Sub-Saharan Africa,diet_med_score,B,MED,Population-weighted MED score,2,5.9818379860306,6.05527731326401,0.0734393272334124,1.2277050532782
+Central and Eastern Europe and Central Asia,diet_mphdi_score,A,mPHDI,Population-weighted mPHDI score,1,64.5230340230427,68.3251284374208,3.80209441437812,5.89261567120402
+East and Southeast Asia,diet_mphdi_score,A,mPHDI,Population-weighted mPHDI score,1,71.2418903211706,75.55570597979,4.31381565861943,6.05516731683006
+High-income countries,diet_mphdi_score,A,mPHDI,Population-weighted mPHDI score,1,69.2585154685661,73.6524331363393,4.39391766777315,6.34422733153642
+Latin America and the Caribbean,diet_mphdi_score,A,mPHDI,Population-weighted mPHDI score,1,64.5406134086283,66.2212944044069,1.68068099577859,2.60406727952465
+Middle East and North Africa,diet_mphdi_score,A,mPHDI,Population-weighted mPHDI score,1,74.8598476729928,77.1113554004353,2.2515077274425,3.00763065572571
+South Asia,diet_mphdi_score,A,mPHDI,Population-weighted mPHDI score,1,69.7898793988892,68.3138441630061,-1.47603523588309,-2.11497032033356
+Sub-Saharan Africa,diet_mphdi_score,A,mPHDI,Population-weighted mPHDI score,1,74.9761924803305,75.2092444334821,0.233051953151616,0.310834606882386
+Central and Eastern Europe and Central Asia,env_eutrophication_g_po4e_person_day,J,Eutrophication,g PO4-eq/person/day,2,41.5181459091619,41.9778417502222,0.459695841060302,1.10721669042273
+East and Southeast Asia,env_eutrophication_g_po4e_person_day,J,Eutrophication,g PO4-eq/person/day,2,21.5724254850491,32.1469518935999,10.5745264085508,49.018717973459
+High-income countries,env_eutrophication_g_po4e_person_day,J,Eutrophication,g PO4-eq/person/day,2,27.1275242559753,27.5687091914536,0.441184935478258,1.62633689427475
+Latin America and the Caribbean,env_eutrophication_g_po4e_person_day,J,Eutrophication,g PO4-eq/person/day,2,29.3261288311638,37.8739717491408,8.54784291797705,29.1475324519941
+Middle East and North Africa,env_eutrophication_g_po4e_person_day,J,Eutrophication,g PO4-eq/person/day,2,23.8683202884542,26.1706170382492,2.30229674979491,9.64582644262819
+South Asia,env_eutrophication_g_po4e_person_day,J,Eutrophication,g PO4-eq/person/day,2,21.5549708903121,21.2117902892991,-0.343180601013064,-1.59211813720104
+Sub-Saharan Africa,env_eutrophication_g_po4e_person_day,J,Eutrophication,g PO4-eq/person/day,2,29.8547344737171,30.1259323440063,0.271197870289221,0.908391499941065
+Central and Eastern Europe and Central Asia,env_ghg_kg_co2e_person_day,G,GHG emissions,kg CO2-eq/person/day,2,9.85054589215769,9.59539521840652,-0.255150673751171,-2.5902186187905
+East and Southeast Asia,env_ghg_kg_co2e_person_day,G,GHG emissions,kg CO2-eq/person/day,2,3.01834188933398,4.78630146906892,1.76795957973494,58.5738675258242
+High-income countries,env_ghg_kg_co2e_person_day,G,GHG emissions,kg CO2-eq/person/day,2,5.94030504323857,5.88344133688704,-0.05686370635153,-0.957252294917985
+Latin America and the Caribbean,env_ghg_kg_co2e_person_day,G,GHG emissions,kg CO2-eq/person/day,2,6.93800362087802,9.29598418683877,2.35798056596075,33.9864418471195
+Middle East and North Africa,env_ghg_kg_co2e_person_day,G,GHG emissions,kg CO2-eq/person/day,2,5.88860832666413,6.06288727326771,0.174278946603575,2.95959481316536
+South Asia,env_ghg_kg_co2e_person_day,G,GHG emissions,kg CO2-eq/person/day,2,3.43963686323216,3.34464266905171,-0.0949941941804506,-2.76175067187722
+Sub-Saharan Africa,env_ghg_kg_co2e_person_day,G,GHG emissions,kg CO2-eq/person/day,2,6.31251750535451,6.78526802955546,0.472750524200945,7.4890964468604
+Central and Eastern Europe and Central Asia,env_land_m2_person_day,H,Land use,m2/person/day,2,29.0623009969822,28.1736853362109,-0.888615660771364,-3.05762321043897
+East and Southeast Asia,env_land_m2_person_day,H,Land use,m2/person/day,2,4.64829955186144,8.9690340618238,4.32073450996235,92.9530135000032
+High-income countries,env_land_m2_person_day,H,Land use,m2/person/day,2,16.6526999355816,16.3404749279943,-0.312225007587308,-1.87492123676703
+Latin America and the Caribbean,env_land_m2_person_day,H,Land use,m2/person/day,2,20.1944875311989,27.2320571813339,7.03756965013498,34.8489638039217
+Middle East and North Africa,env_land_m2_person_day,H,Land use,m2/person/day,2,20.4776905089108,20.1167618343285,-0.360928674582254,-1.76254580283454
+South Asia,env_land_m2_person_day,H,Land use,m2/person/day,2,6.26263179582738,6.07676316080856,-0.18586863501882,-2.96789977566075
+Sub-Saharan Africa,env_land_m2_person_day,H,Land use,m2/person/day,2,19.4424379679379,21.2173721728821,1.77493420494426,9.12917509558864
+Central and Eastern Europe and Central Asia,env_water_scarcity_l_equivalent_person_day,I,Water scarcity,L-eq/person/day,0,31102.9411836376,33324.7462164902,2221.80503285253,7.14339206615404
+East and Southeast Asia,env_water_scarcity_l_equivalent_person_day,I,Water scarcity,L-eq/person/day,0,23306.8371309806,29635.8064501359,6328.96931915536,27.1549901155082
+High-income countries,env_water_scarcity_l_equivalent_person_day,I,Water scarcity,L-eq/person/day,0,23214.2056973593,25048.6430117518,1834.43731439251,7.9022187461757
+Latin America and the Caribbean,env_water_scarcity_l_equivalent_person_day,I,Water scarcity,L-eq/person/day,0,18649.9978054857,24061.5123117683,5411.51450628253,29.0161669868442
+Middle East and North Africa,env_water_scarcity_l_equivalent_person_day,I,Water scarcity,L-eq/person/day,0,24150.6275756655,28229.338564106,4078.71098844049,16.888633538245
+South Asia,env_water_scarcity_l_equivalent_person_day,I,Water scarcity,L-eq/person/day,0,31792.7838819239,30276.9640013196,-1515.81988060427,-4.7678111052933
+Sub-Saharan Africa,env_water_scarcity_l_equivalent_person_day,I,Water scarcity,L-eq/person/day,0,17473.5542400128,19226.0856153915,1752.53137537869,10.029621628813
