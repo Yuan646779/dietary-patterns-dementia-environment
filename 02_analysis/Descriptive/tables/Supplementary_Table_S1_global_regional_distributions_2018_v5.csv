@@ -1,0 +1,105 @@
+﻿geographical_level,variable,label,unit,population_weighted_mean
+Global,diet_mphdi_score,mPHDI score,score,72.6889177640048
+Global,diet_med_score,Mediterranean diet score,score,4.95632974258831
+Global,diet_dash_score,DASH score,score,26.054450718171
+Global,diet_ahei_score,AHEI score,score,55.631050540427
+Global,dementia_daly_asr60plus,Dementia DALY rate,"per 100,000",3071.2478599281
+Global,dementia_prevalence_asr60plus,Dementia prevalence rate,"per 100,000",4506.18184920237
+Global,env_ghg_kg_co2e_person_day,GHG emissions,kg CO2-eq/person/day,5.68628354531673
+Global,env_land_m2_person_day,Land use,m2/person/day,14.1364820706501
+Global,env_water_scarcity_l_equivalent_person_day,Scarcity-weighted water use,L-eq/person/day,28107.984825701
+Global,env_eutrophication_g_po4e_person_day,Eutrophication,g PO4-eq/person/day,30.3475408320431
+Global,sdi,Socio-demographic Index,index,0.696233044026253
+Global,env_coverage_proportion,Environmental intake coverage,proportion,0.943012996047852
+Global,population_60plus_from_gbd,60+ population,population,93839483.3756869
+High-income countries,diet_mphdi_score,mPHDI score,score,73.6524331363393
+High-income countries,diet_med_score,Mediterranean diet score,score,4.36964241804856
+High-income countries,diet_dash_score,DASH score,score,27.6320587640152
+High-income countries,diet_ahei_score,AHEI score,score,55.1613107820493
+High-income countries,dementia_daly_asr60plus,Dementia DALY rate,"per 100,000",3335.59750062579
+High-income countries,dementia_prevalence_asr60plus,Dementia prevalence rate,"per 100,000",4943.02679549622
+High-income countries,env_ghg_kg_co2e_person_day,GHG emissions,kg CO2-eq/person/day,5.88344133688704
+High-income countries,env_land_m2_person_day,Land use,m2/person/day,16.3404749279943
+High-income countries,env_water_scarcity_l_equivalent_person_day,Scarcity-weighted water use,L-eq/person/day,25048.6430117518
+High-income countries,env_eutrophication_g_po4e_person_day,Eutrophication,g PO4-eq/person/day,27.5687091914536
+High-income countries,sdi,Socio-demographic Index,index,0.854693477116824
+High-income countries,env_coverage_proportion,Environmental intake coverage,proportion,0.893104899677739
+High-income countries,population_60plus_from_gbd,60+ population,population,34585273.3477671
+Central/Eastern Europe and Central Asia,diet_mphdi_score,mPHDI score,score,68.3251284374208
+Central/Eastern Europe and Central Asia,diet_med_score,Mediterranean diet score,score,4.04484670673677
+Central/Eastern Europe and Central Asia,diet_dash_score,DASH score,score,27.230601342931
+Central/Eastern Europe and Central Asia,diet_ahei_score,AHEI score,score,55.139138272921
+Central/Eastern Europe and Central Asia,dementia_daly_asr60plus,Dementia DALY rate,"per 100,000",2724.33516313028
+Central/Eastern Europe and Central Asia,dementia_prevalence_asr60plus,Dementia prevalence rate,"per 100,000",3935.95044557888
+Central/Eastern Europe and Central Asia,env_ghg_kg_co2e_person_day,GHG emissions,kg CO2-eq/person/day,9.59539521840652
+Central/Eastern Europe and Central Asia,env_land_m2_person_day,Land use,m2/person/day,28.1736853362109
+Central/Eastern Europe and Central Asia,env_water_scarcity_l_equivalent_person_day,Scarcity-weighted water use,L-eq/person/day,33324.7462164902
+Central/Eastern Europe and Central Asia,env_eutrophication_g_po4e_person_day,Eutrophication,g PO4-eq/person/day,41.9778417502222
+Central/Eastern Europe and Central Asia,sdi,Socio-demographic Index,index,0.776579346979714
+Central/Eastern Europe and Central Asia,env_coverage_proportion,Environmental intake coverage,proportion,0.953973867523178
+Central/Eastern Europe and Central Asia,population_60plus_from_gbd,60+ population,population,15275863.1690885
+East and Southeast Asia,diet_mphdi_score,mPHDI score,score,75.55570597979
+East and Southeast Asia,diet_med_score,Mediterranean diet score,score,5.10006404425719
+East and Southeast Asia,diet_dash_score,DASH score,score,24.1974808425158
+East and Southeast Asia,diet_ahei_score,AHEI score,score,55.8109661176813
+East and Southeast Asia,dementia_daly_asr60plus,Dementia DALY rate,"per 100,000",3479.96692829293
+East and Southeast Asia,dementia_prevalence_asr60plus,Dementia prevalence rate,"per 100,000",5201.05409844431
+East and Southeast Asia,env_ghg_kg_co2e_person_day,GHG emissions,kg CO2-eq/person/day,4.78630146906892
+East and Southeast Asia,env_land_m2_person_day,Land use,m2/person/day,8.9690340618238
+East and Southeast Asia,env_water_scarcity_l_equivalent_person_day,Scarcity-weighted water use,L-eq/person/day,29635.8064501359
+East and Southeast Asia,env_eutrophication_g_po4e_person_day,Eutrophication,g PO4-eq/person/day,32.1469518935999
+East and Southeast Asia,sdi,Socio-demographic Index,index,0.704966306046103
+East and Southeast Asia,env_coverage_proportion,Environmental intake coverage,proportion,0.985404245631656
+East and Southeast Asia,population_60plus_from_gbd,60+ population,population,175536009.502446
+Latin America and the Caribbean,diet_mphdi_score,mPHDI score,score,66.2212944044069
+Latin America and the Caribbean,diet_med_score,Mediterranean diet score,score,3.70315094401182
+Latin America and the Caribbean,diet_dash_score,DASH score,score,24.7954682635317
+Latin America and the Caribbean,diet_ahei_score,AHEI score,score,44.8626481305463
+Latin America and the Caribbean,dementia_daly_asr60plus,Dementia DALY rate,"per 100,000",2859.42513997009
+Latin America and the Caribbean,dementia_prevalence_asr60plus,Dementia prevalence rate,"per 100,000",4659.19129496252
+Latin America and the Caribbean,env_ghg_kg_co2e_person_day,GHG emissions,kg CO2-eq/person/day,9.29598418683877
+Latin America and the Caribbean,env_land_m2_person_day,Land use,m2/person/day,27.2320571813339
+Latin America and the Caribbean,env_water_scarcity_l_equivalent_person_day,Scarcity-weighted water use,L-eq/person/day,24061.5123117683
+Latin America and the Caribbean,env_eutrophication_g_po4e_person_day,Eutrophication,g PO4-eq/person/day,37.8739717491408
+Latin America and the Caribbean,sdi,Socio-demographic Index,index,0.666062400867603
+Latin America and the Caribbean,env_coverage_proportion,Environmental intake coverage,proportion,0.840491217429585
+Latin America and the Caribbean,population_60plus_from_gbd,60+ population,population,14460147.3087414
+Middle East and North Africa,diet_mphdi_score,mPHDI score,score,77.1113554004353
+Middle East and North Africa,diet_med_score,Mediterranean diet score,score,5.44227440224416
+Middle East and North Africa,diet_dash_score,DASH score,score,27.2744078061809
+Middle East and North Africa,diet_ahei_score,AHEI score,score,53.8517862890395
+Middle East and North Africa,dementia_daly_asr60plus,Dementia DALY rate,"per 100,000",3430.48127869889
+Middle East and North Africa,dementia_prevalence_asr60plus,Dementia prevalence rate,"per 100,000",4708.70334071529
+Middle East and North Africa,env_ghg_kg_co2e_person_day,GHG emissions,kg CO2-eq/person/day,6.06288727326771
+Middle East and North Africa,env_land_m2_person_day,Land use,m2/person/day,20.1167618343285
+Middle East and North Africa,env_water_scarcity_l_equivalent_person_day,Scarcity-weighted water use,L-eq/person/day,28229.338564106
+Middle East and North Africa,env_eutrophication_g_po4e_person_day,Eutrophication,g PO4-eq/person/day,26.1706170382492
+Middle East and North Africa,sdi,Socio-demographic Index,index,0.658893015758171
+Middle East and North Africa,env_coverage_proportion,Environmental intake coverage,proportion,0.89655751731623
+Middle East and North Africa,population_60plus_from_gbd,60+ population,population,5959776.79472455
+South Asia,diet_mphdi_score,mPHDI score,score,68.3138441630061
+South Asia,diet_med_score,Mediterranean diet score,score,5.91650725349908
+South Asia,diet_dash_score,DASH score,score,27.4671250976619
+South Asia,diet_ahei_score,AHEI score,score,62.392249347087
+South Asia,dementia_daly_asr60plus,Dementia DALY rate,"per 100,000",2079.09886096282
+South Asia,dementia_prevalence_asr60plus,Dementia prevalence rate,"per 100,000",2868.09885340285
+South Asia,env_ghg_kg_co2e_person_day,GHG emissions,kg CO2-eq/person/day,3.34464266905171
+South Asia,env_land_m2_person_day,Land use,m2/person/day,6.07676316080856
+South Asia,env_water_scarcity_l_equivalent_person_day,Scarcity-weighted water use,L-eq/person/day,30276.9640013196
+South Asia,env_eutrophication_g_po4e_person_day,Eutrophication,g PO4-eq/person/day,21.2117902892991
+South Asia,sdi,Socio-demographic Index,index,0.550301339625
+South Asia,env_coverage_proportion,Environmental intake coverage,proportion,0.986087589128207
+South Asia,population_60plus_from_gbd,60+ population,population,107499088.308018
+Sub-Saharan Africa,diet_mphdi_score,mPHDI score,score,75.2092444334821
+Sub-Saharan Africa,diet_med_score,Mediterranean diet score,score,6.05527731326401
+Sub-Saharan Africa,diet_dash_score,DASH score,score,28.1000108719451
+Sub-Saharan Africa,diet_ahei_score,AHEI score,score,53.383778080151
+Sub-Saharan Africa,dementia_daly_asr60plus,Dementia DALY rate,"per 100,000",2819.90308461475
+Sub-Saharan Africa,dementia_prevalence_asr60plus,Dementia prevalence rate,"per 100,000",3503.99825244737
+Sub-Saharan Africa,env_ghg_kg_co2e_person_day,GHG emissions,kg CO2-eq/person/day,6.78526802955546
+Sub-Saharan Africa,env_land_m2_person_day,Land use,m2/person/day,21.2173721728821
+Sub-Saharan Africa,env_water_scarcity_l_equivalent_person_day,Scarcity-weighted water use,L-eq/person/day,19226.0856153915
+Sub-Saharan Africa,env_eutrophication_g_po4e_person_day,Eutrophication,g PO4-eq/person/day,30.1259323440063
+Sub-Saharan Africa,sdi,Socio-demographic Index,index,0.443225938486138
+Sub-Saharan Africa,env_coverage_proportion,Environmental intake coverage,proportion,0.864836169821585
+Sub-Saharan Africa,population_60plus_from_gbd,60+ population,population,3496405.77464033

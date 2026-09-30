@@ -1,0 +1,14 @@
+﻿variable,n_missing,missing_percent,n_countries_available,n_years_available,label,unit
+dementia_daly_asr60plus,0,0,185,7,Dementia DALY rate,"per 100,000"
+dementia_prevalence_asr60plus,0,0,185,7,Dementia prevalence rate,"per 100,000"
+diet_ahei_score,0,0,185,7,AHEI score,score
+diet_dash_score,0,0,185,7,DASH score,score
+diet_med_score,0,0,185,7,Mediterranean diet score,score
+diet_mphdi_score,0,0,185,7,mPHDI score,score
+env_coverage_proportion,0,0,185,7,Environmental intake coverage,proportion
+env_eutrophication_g_po4e_person_day,0,0,185,7,Eutrophication,g PO4-eq/person/day
+env_ghg_kg_co2e_person_day,0,0,185,7,GHG emissions,kg CO2-eq/person/day
+env_land_m2_person_day,0,0,185,7,Land use,m2/person/day
+env_water_scarcity_l_equivalent_person_day,0,0,185,7,Scarcity-weighted water use,L-eq/person/day
+population_60plus_from_gbd,0,0,185,7,60+ population,population
+sdi,0,0,185,7,Socio-demographic Index,index

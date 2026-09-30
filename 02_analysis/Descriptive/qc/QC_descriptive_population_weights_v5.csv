@@ -1,0 +1,2 @@
+﻿n_rows,n_countries,n_years,min_population_60plus,max_population_60plus,population_source
+1295,185,7,1742.86344673909,252806235.232391,GBD_age_specific_population_60plus.csv
