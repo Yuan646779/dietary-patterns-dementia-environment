@@ -1,0 +1,11 @@
+﻿variable,label,n_2018_records,n_mapped_polygons
+diet_mphdi_score,mPHDI,185,163
+diet_med_score,MED,185,163
+diet_dash_score,DASH,185,163
+diet_ahei_score,AHEI,185,163
+dementia_daly_asr60plus,Dementia DALY rate,185,163
+dementia_prevalence_asr60plus,Dementia prevalence rate,185,163
+env_ghg_kg_co2e_person_day,GHG emissions,185,163
+env_land_m2_person_day,Land use,185,163
+env_water_scarcity_l_equivalent_person_day,Scarcity-weighted water use,185,163
+env_eutrophication_g_po4e_person_day,Eutrophication,185,163
